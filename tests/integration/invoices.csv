@@ -1,0 +1,8 @@
+invoice_reference,price,due_date,payment_date,contact_last_name, contact_first_name, contact_email
+12EDF432, 2300,D12M02Y2017,, Doe, John, john.doe@foobar.com
+76ZCUF92, 6540,D23M03Y2017,, Ann, Mary, mary.ann@foobar.com
+432HG36T, 13600,D12M08Y2017,, Harry, Cover, harry.cover@foobar.com
+D67I76ZC, 540080,D22M09Y2016,D12M08Y2017, marius, back, marius.back.pro@foobar.com
+F432F92E, 3023,D29M02Y2017,, fabien, chose, fchose@foobar.com
+6ZCU12ED, 6534,D26M04Y2017,, jean, Bon, jean.bon@foobar.com
+6ZCU12ED, 6534,D26M12Y2016,, doe, John, john.doe@foobar.com
